@@ -7,9 +7,8 @@ This project includes an interactive Excel sales dashboard built using:
 - Clean formatting & dashboard design principles
 
 ## Files Included
-- Sales_Dashboard_Project.xlsx (main dashboard)
-- Sales_Dashboard_Project.pdf (read-only version)
-- retail_sales_dataset.csv (dataset used)
+- retail_sales_dataset_workbook.xlsx (main dashboard)
+- retail_sales_dataset_original.csv (dataset used)
 
 ## Tools Used
 - Microsoft Excel
